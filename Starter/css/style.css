@@ -15,6 +15,8 @@ body {
   text-wrap: wrap;
 }
 
+
+
 .image-left {
     float: left;
     margin-right: 40px;
@@ -65,9 +67,15 @@ body {
 .table {
   margin-top: -14%;
 }
-.knowledge {margin-top: 185px }
+.knowledge {margin-top: 100px }
 a:visited {
   color:#FB4F14;
+}
+
+.updates {
+  border: 2px dotted;
+  border-color: #FB4F14 ;
+
 }
 
 a:link {
