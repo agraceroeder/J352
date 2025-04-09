@@ -1,0 +1,59 @@
+
+.simple-article-header {
+  background: #fefefe;
+  padding: 1.3rem 2rem .7rem;
+  border: 1px solid #cacaca;
+  margin-bottom: 1rem;
+}
+
+.forbes-brand {
+float: left
+}
+
+.related {
+  font-size: 30px;
+}
+
+.article-post-image {
+  margin-left: 50px;
+}
+
+.sidebar {
+  background-color: lightblue;
+  float: right;
+  padding: 5px;
+  margin: -470px 50px 5px 10px;
+
+}
+ 
+.pressrelease {
+  font-size: 20px;
+  width: 100%;
+}
+
+.mapdesc {
+  width: 100%;
+}
+
+
+
+
+.pull-quote {
+  font-weight: 200;
+  letter-spacing: 1.5px;
+  font-style: normal;
+  font-size: 25px;
+  max-width: 100%;
+  line-height: 1.25em;
+  text-transform: uppercase;
+  color: #1779ba;
+  float: right;
+  margin: 10px 0 0 20px;
+  background: linear-gradient(#767676, #1779ba);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
+
