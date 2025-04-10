@@ -1,11 +1,38 @@
 
+.h1 {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 .simple-article-header {
   background: #fefefe;
   padding: 1.3rem 2rem .7rem;
-  border: 1px solid #cacaca;
   margin-bottom: 1rem;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.article-author-comments{
+  padding-left: 30px;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
+.article-post-content {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-wrap: wrap;
+}
+.article-date-read {
+  padding-left: 30px;
+}
 .forbes-brand {
 float: left
 }
@@ -15,19 +42,33 @@ float: left
 }
 
 .article-post-image {
-  margin-left: 50px;
+  padding: 5px;
+ 
+}
+
+.newformats {
+  font-size: 20px;
+}
+
+.reinforcing {
+  font-size: 20px;
+}
+
+.flex-container {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 .sidebar {
-  background-color: lightblue;
-  float: right;
-  padding: 5px;
+  background-color: lightpurple;
+  width: 120%;
+  padding: 15px;
   margin: -470px 50px 5px 10px;
-
+  text-wrap: wrap;
 }
  
 .pressrelease {
-  font-size: 20px;
   width: 100%;
 }
 
@@ -39,6 +80,8 @@ float: left
 
 
 .pull-quote {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
   font-weight: 200;
   letter-spacing: 1.5px;
   font-style: normal;
