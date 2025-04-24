@@ -1,0 +1,37 @@
+.infogram-embed{
+width: 624px;
+height: 512px;
+margin-bottom: 55px;
+padding-bottom: 25px;
+text-wrap: wrap;
+}
+
+.text{
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.text-2 {
+  margin-left: 5px;
+}
+
+.mainst {
+  float: right;
+  margin: 90px 60px 0px 300px;
+  width: 120%;
+  height: 120%;
+  color: lightblue;
+  padding: 10px;
+}
+
+.image-caption {
+  text-align: right;
+  margin-right: 15px;
+  margin-top: -25px;
+}
+h1 {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
