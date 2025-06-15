@@ -4,6 +4,21 @@ h1 {
   font-style: normal;
   margin-top: 10px;
 }
+
+.imgbox {
+  background-image: url('chapel.png');
+}
+
+.gallery {
+  text-align: center;
+}
+
+.textbox {
+  background-color: #93b5f2;
+  padding: 10px;
+  border-radius: 15px;
+  opacity: 60%;
+}
 .headlinemapcarousel {
   text-align: center;
 }
@@ -12,14 +27,32 @@ h1 {
   align-content: right;
   display: flex;
   margin-right: -50px;
-  margin-top: 400px;
+  margin-top: 150px;
 }
 
 .figure {
   font-family: "Baskervville", serif;
   font-weight: 400;
   font-style: normal;
-  margin-top: 10px;
+  margin-top: 40px;
+
+}
+
+.pullquote {
+  float: right;
+  margin-top: 100px;
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  font-size: 25px;
+  max-width: 100%;
+  line-height: 1.25em;
+  color: #93b5f2;
+  float: right;
+  margin: 10px 0 0 20px;
+  background: linear-gradient(#93b5f2, #1779ba);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .orbit-slide {
@@ -36,14 +69,17 @@ h1 {
   margin-left: 130px;
   text-align: center;
   background-color: #93b5f2;
-  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 25%;
 }
 
 .subhead {
-  font-size: 23px;
+  font-size: 27px;
   font-family: "Baskervville", serif;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
+  color: #93b5f2;
 }
 
 p {
@@ -158,5 +194,7 @@ p {
 .news-image-gallery-container .read-more {
   color: #8a8a8a;
 }
+
+
 
 
